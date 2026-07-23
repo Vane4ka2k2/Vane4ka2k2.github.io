@@ -41,13 +41,13 @@
 
 ## 🚀 Локальный запуск
 
-Для просмотра сайта локально достаточно открыть index.html в любом браузере:
+Для просмотра сайта локально достаточно открыть `index.html` в любом браузере:
 
-`ash
+```bash
 git clone https://github.com/Vane4ka2k2/Vane4ka2k2.github.io.git
 cd Vane4ka2k2.github.io
 # Откройте index.html
-`
+```
 
 ---
 
