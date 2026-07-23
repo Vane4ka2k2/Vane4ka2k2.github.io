@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # рџЊђ Vane4ka2k2.github.io вЂ” РЎР°Р№С‚-РїРѕСЂС‚С„РѕР»РёРѕ C++ & DSP СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°
 
